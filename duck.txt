@@ -1,0 +1,410 @@
+Database All
+http://103.70.4.231:8080/
+user: CaniWow 
+pass: fzx0NvQcEYYYBcL5
+
+Connection
+	FTP
+user: chatstick.caniwow
+psss: F8hQyxKLIr
+
+Database
+	MySQL
+user: root
+pass: 1dvsMk1gnFDs
+
+Host: 103.70.4.231
+chatstickapi.caniwow.com
+
+PASS RAR
+$QE1dc#iO5Sj@l!3
+
+FTP nutta-clinic
+user: nutta-clinic.caniwow
+pass: caniWowWow
+
+ข้อมูลการใช้งานโฮสติ้ง
+
+Username: nuttahomec
+Password: SEvHZD-2-5
+
+หน้าเว็บแสดงผล
+ยังไม่มีโดเมน	http://www.nutta-home.com.122.155.17.245.no-domain.name/
+มีโดเมนแล้ว	http://www.nutta-home.com/ [1]
+
+ข้อมูล FTP
+Host	ns253.pathosting.com	  หรือ   ftp.nutta-home.com [1]
+Username	nuttahomec
+Password	SEvHZD-2-5
+Port	21
+
+Control Panel (DirectAdmin) (เข้าทางใดก็ได้)
+(พอร์ท 2222)	ผ่านไอพี	http://ns253.pathosting.com:2222/
+ผ่านโดเมนเนม	http://www.nutta-home.com:2222/ [1]
+FAQ: ทำไมเข้า DirectAdmin แล้วขึ้นหน้าเตือนเรื่องความปลอดภัย?
+[1] เฉพาะกรณีที่มีโดเมน และตั้ง Name Servers มาที่โฮสติ้งแล้ว
+
+Name Servers
+NS1:	ns253.pathosting.com
+NS2:	ns254.pathosting.com
+Host IP:	122.155.17.245
+
+หน้าเว็บเมล
+ผ่านไอพี	http://122.155.17.245/roundcube/
+ผ่านโดเมนเนม	http://www.nutta-home.com/roundcube/ [1]
+
+
+MoonPop
+host: sp-mooncake.caniwow.com
+user: s&p.caniwow
+pass: JNnntyqYD3
+
+InterExpress
+host: iel.caniwow.com /iel.co.th
+user: iel.caniwow
+pass: 76tIphKFtT
+user wp: admin
+pass wp: 8(Lq%KWk75s0L)20v2HE6!qD / if#BL&2OnIkZnx7io%
+user: admin02
+pass wp: xNfrMR2zCZH7Oug5D^jsyRX@
+user: post
+pass: wMGLo9bf3z$5MfKszs6tECZC
+
+user content: admin001
+pass: 4*vJ@V!pC$KTP6qPD^(xp7i^
+
+MotoParilla
+FTP Account
+url : parilla.caniwow.com
+host ip: 103.70.4.231
+user: moto-parilla
+pass: D5goPfgAt3
+user wp: admin
+pass wp: X)k*1!DNk4O$klhaCg
+
+Host
+https://pro52-138.static.lnwhostname.com:2222/CMD_LOGIN
+user : motoparill
+pass : K@ov0imv<p
+
+DB
+user : motoparill_parilla
+pass : LVHuToBA3Pgkv
+
+WP:wp_4_8_3
+User:admin
+Pass:GX@5bjWI7$r3vMuk9U
+
+FTP 
+Keyboard
+User:chatty
+pass:keystick
+
+Woo-Commerce
+pass:EJBLTr&EhJUvIB9G(u
+
+
+ufahd Football
+ข้อมูล FTP
+Host	ns245.pathosting.com	  หรือ   ftp.ufahd.com 
+Username	ufahdcom
+Password	Y-GEHmeE93
+Port	21
+
+Database:	ufahdcom_football
+Host:	localhost
+Username:	ufahdcom_sport
+Password:	ft1PtXfKpejQDbd
+
+
+WP:admin
+Password: TyO3Y9loNj30TR)QQL / X(ymPBqKJNQO4law%@jZo@er
+
+
+Dummy หลุดจำนำ
+
+Tea Smith And His Cha
+http://www.smithandhischa.com/
+
+ข้อมูล FTP
+Host	ns245.pathosting.com	  หรือ   ftp.smithandhischa.com [1]
+Username	smithandhi
+Password	V3HUB!y-qG
+Port	21
+
+Control Panel (DirectAdmin) (เข้าทางใดก็ได้)
+ผ่านไอพี	http://ns245.pathosting.com:2222/
+ผ่านโดเมนเนม	http://www.smithandhischa.com:2222/
+
+
+Database:	smithandhi_tea
+Host:	localhost
+Username:	smithandhi_smithandhi
+Password:	DwFzatycJ2AAWG
+
+wp: g)ATNCV3Rfeo87NC6O / ti^bj)#U%FDVunZhg@IqIhUK
+wp: 
+user: smithandhischa
+pass: ^YriXT!1NmZ1DE13f1wfzwnr
+
+http://keyboard.caniwow.com/travel
+
+Travel Friend
+wp: 4zJzABqFN*JNu7D1kc
+
+
+Dummy
+
+ใช้ Theme เดียวกับ SmithAndHisCha.com
+
+เพจลูกค้า  https://www.facebook.com/DummyRabFak/
+
+
+--------------------ข้อมูลการใช้งานโฮสติ้ง
+
+หน้าเว็บแสดงผล
+มีโดเมนแล้ว	http://www.dummygroup.com/ 
+
+ข้อมูล FTP
+Host	ns247.pathosting.com	  หรือ   ftp.dummygroup.com [1]
+Username	dummygroup
+Password		j73_Q!us_v
+Port	21
+
+Control Panel (DirectAdmin) (เข้าทางใดก็ได้)
+ผ่านโดเมนเนม	http://www.dummygroup.com:2222/ [1]
+
+Database:	dummygroup_dummy
+Host:	localhost
+Username:	dummygroup_dummygroup
+Password:	JV6JsenVCncrSO
+
+WP: ve0%RWhfg@Q@!Jxora / hQXsjz(F5fDC2lh#E8p2es63
+
+WP: 
+User: dummygroup
+Pass: 0h%XW%RL*6qP2dGgYPOP$2iL
+
+
+C-1 mushrooms
+ข้อมูลการใช้งานโฮสติ้ง
+
+Username: healthyand
+Password: uS5YSba!-W
+
+ข้อมูล FTP
+ ftp.healthyandbeautyherbs.com [1]
+Username	healthyand
+Password	uS5YSba!-W
+Port	21
+
+Control Panel (DirectAdmin)
+ผ่านโดเมนเนม	http://www.healthyandbeautyherbs.com:2222/ 
+
+Database:	healthyand_herbs
+Host:	localhost
+Username:	healthyand_beauty
+Password:	RRwio7xNA4w
+
+WP: !B)mvvlSbq$LG6lYFv / cz0KJqhj%haH8(921Qs))zbl
+
+healthyandbeautyherbs
+WP: 2K&DDrI99mKXdhlaCO@c*0$R
+
+Sam Gler
+WP: AHZTj!54MI1ny%uPZk
+
+Pananchita
+Direct Admin: 
+https://119.59.104.20:2222/
+https://www.pananchitabyple165.com:2222/
+
+Username: pananch1
+Password: 94uIytR07s
+
+FTP Hostname: pananchitabyple165.com หรือ 119.59.104.20
+FTP Username: pananch1
+FTP Password: 94uIytR07s
+FTP Port : 2002
+
+Database:	pananch1_webpananc
+Host:	localhost
+Username:	pananch1_panan2018
+Password:	U9n2zJqBAJ
+
+WP: 4aDVhgCQFtYTQ37JVP
+
+Quick Collagen
+
+Direct Admin
+https://119.59.104.20:2222/ หรือ https://www.quickcollagenthailand.com:2222/
+Username: quickcol
+Password: dkL562Zx6j
+
+FTP Hostname: quickcollagenthailand.com หรือ 119.59.104.20
+FTP Username: quickcol
+FTP Password: dkL562Zx6j
+FTP Port : 2002
+
+Database:	quickcol_quickgen2018
+Host:	localhost
+Username:	quickcol_qcok2018
+Password:	D1UACPN0nH
+
+WP: n^kun*bHpf!#U@TXpe
+
+
+Famina
+
+Direct Admin
+https://119.59.104.20:2222/ หรือ https://www.framinaprotien.com:2222/
+Username: framinap
+Password: s61g7l9TwA
+
+New
+Domain Name Details
+Order ID: 83681817
+Domain Name: framinaprotein.com
+
+FTP Hostname: framinaprotien.com หรือ 119.59.104.20
+FTP Username: framinap
+FTP Password: s61g7l9TwA
+FTP Port : 2002
+
+Database:	framinap_mina2018
+Host:	localhost
+Username:	framinap_Fami18
+Password:	rG231ucqwW
+
+WP: lDSQLy*O$F%)8YCg!z
+admin02
+JKTbG7Ctv0zH3ay3dRIJJhG$
+
+Email Framina
+Username:	info@framinaprotien.com
+Password:	luVBM401EH
+Pop/Imap Server:	mail.framinaprotien.com
+Smtp Server:	mail.framinaprotien.com
+
+
+Thai Phoyok
+
+FTP Hostname: thaiphoyok.com หรือ 119.59.104.20
+FTP Username: thaiphoy
+FTP Password: 64bYx10iMh
+FTP Port : 2002
+
+Direct Admin Control Panel
+ 
+ท่านสามารถเข้าใช้งาน Direct Admin Control Panel เพื่อสร้าง Email Account / Database / Subdomain ได้ที่
+https://119.59.104.20:2222/ หรือ https://www.thaiphoyok.com:2222/
+Username: thaiphoy
+Password: 64bYx10iMh
+
+Database:	thaiphoy_phthai2018
+Host:	localhost
+Username:	thaiphoy_photy180601
+Password:	cCqRwUe2MD
+
+WP: nxLJsGbaEr#7szf@nv
+
+
+HugKids
+
+ข้อมูลการเข้าสู่ระบบ
+
+Direct Admin Control Panel
+ท่านสามารถเข้าใช้งาน Direct Admin เพื่อสร้าง Email Account / Database / Subdomain ได้ที่
+ระบบจัดการ (DirectAdmin CP) ช่องทางที่ 1: http://103.58.148.231:2222/
+ระบบจัดการ (DirectAdmin CP) ช่องทางที่ 2: http://www.wehugshop.com:2222/
+(กรณีจดทะเบียนกับเรา หรือตั้งค่า NS มาที่เราแล้ว)
+
+Username: wehugsho
+Password: #MyO304NYr2#it
+
+FTP Server
+ท่านสามารถอัพโหลดเว็บไซต์ของท่านมาที่ server ด้วยโปรแกรม FTP Client ต่างๆ
+โดยใช้ค่าดังต่อไปนี้ในการล็อกอิน (Login)
+FTP Host : wehugshop.com หรือ 103.58.148.231
+Username: wehugsho
+Password: #MyO304NYr2#it
+FTP Port : 21
+
+Database:	wehugsho_kidshug
+Host:	localhost
+Username:	wehugsho_hukids
+Password:	Z5lHTbAgtU
+
+WP:xXd&$F1fKOW@LL%(OB
+
+Line Notification KMA
+Token: nFo1CyZab2RQ1h1FyveHZkrZepfmJbu42ddoOIs9ah8
+
+
+
+Worra
+ข้อมูลการเข้าสู่ระบบ
+
+Direct Admin Control Panel
+ท่านสามารถเข้าใช้งาน Direct Admin เพื่อสร้าง Email Account / Database / Subdomain ได้ที่
+ระบบจัดการ (DirectAdmin CP) ช่องทางที่ 1: http://27.254.142.60:2222/
+ระบบจัดการ (DirectAdmin CP) ช่องทางที่ 2: http://www.worraofficial.com:2222/
+(กรณีจดทะเบียนกับเรา หรือตั้งค่า NS มาที่เราแล้ว)
+
+Username: worraoff
+Password: 5-Qy4qIY76h.dP
+
+FTP Server
+ท่านสามารถอัพโหลดเว็บไซต์ของท่านมาที่ server ด้วยโปรแกรม FTP Client ต่างๆ
+โดยใช้ค่าดังต่อไปนี้ในการล็อกอิน (Login)
+FTP Host : worraofficial.com หรือ 27.254.142.60
+Username: worraoff
+Password: 5-Qy4qIY76h.dP
+FTP Port : 21
+
+Database:	worraoff_ofworr2018
+Host:	localhost
+Username:	worraoff_worfial
+Password:	K924nQxjRz
+
+WP: fXmP1EN!a#63jm6cBO
+
+Web รวย
+
+Direct Admin Control Panel
+ท่านสามารถเข้าใช้งาน Direct Admin เพื่อสร้าง Email Account / Database / Subdomain ได้ที่
+ระบบจัดการ (DirectAdmin CP) ช่องทางที่ 1: http://27.254.142.188:2222/
+ระบบจัดการ (DirectAdmin CP) ช่องทางที่ 2: http://www.ra-astrologer.com:2222/
+(กรณีจดทะเบียนกับเรา หรือตั้งค่า NS มาที่เราแล้ว)
+
+Username: raastrol
+Password: !ZrV52PBi@42wp
+
+FTP Host : ra-astrologer.com หรือ 27.254.142.188
+Username: raastrol
+Password: !ZrV52PBi@42wp
+FTP Port : 21
+
+Database:	raastrol_horosc
+Host:	localhost
+Username:	raastrol_horo
+Password:	AhIyzeFM9r
+
+WP: J&kPefrJ3BTW*HSBe3
+
+QA ChatStick Creator
+username: DevChatStick
+password: wY4fs@AclL2k$
+
+ChatStick App
+Key store
+Pass: UoCjyq!*F@-l#
+Alias: mychatstick
+Pass: Po%weA!)z$
+
+Dropbox Dev ChatStick
+Username : caniwow.choochait@gmail.com
+Pass	: DevTeamCS2018
+
+Host Gator
+Pass: Ielt2019
